@@ -1,7 +1,7 @@
 import requests, json, urllib
 from datetime import date
 
-vin = '5YJ3E1EA3JF045149'   #example VIN
+vin = '5YJ3E1EA0HF001099'   #example VIN
 model = 'm3'  # ms, mx, m3, my
 condition = 'used'  # used, new
 zipcode = '98052'   #Search within 200 miles of this ZIP code
